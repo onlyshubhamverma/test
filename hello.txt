@@ -1,1 +1,8 @@
-shubham verma has commited and push this on github for first time
+shubham verma has commited and push this on github for first time, making changes not that big deal man.
+1 initialize
+2 add to local repository
+3 check status
+4 config yourself
+5 commit changes
+6 link local repository to remote repository
+7 push changes from local repository to remote repository
